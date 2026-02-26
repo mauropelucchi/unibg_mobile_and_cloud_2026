@@ -1,4 +1,4 @@
-# University of Bergamo - Mobile and Cloud Platforms 2025
+# University of Bergamo - Mobile and Cloud Platforms 2026
 
 This repository contains code and data for the Apps developed during the Mobile & Cloud Platforms Course @ University of Bergamo (2026).
 
