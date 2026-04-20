@@ -10,7 +10,7 @@ import boto3
 client = boto3.client('glue')
 
 # Variables for the job: 
-glueJobName = "MyTEDX1"
+glueJobName = "TEDX1"
 
 # Define Lambda function
 def lambda_handler(event, context):
